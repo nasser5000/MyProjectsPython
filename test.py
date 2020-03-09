@@ -13,3 +13,5 @@ for color in rainbow:
     terry.penup()
     terry.forward(50)
     terry.pendown()
+    
+# this is another comment in the end of file 
