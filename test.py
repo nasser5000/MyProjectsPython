@@ -1,3 +1,4 @@
+# this code to create amotion by the turtle Object in python
 import turtle
 terry = turtle.Turtle()
 rainbow = ["red", "orange", "yellow", "green", "blue", "purple"]
